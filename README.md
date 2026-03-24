@@ -1,39 +1,33 @@
+<h1 align="center">Hi, I'm Tinhinane 👋</h1>
 
-## Bonjour, je suis [Tinhinane] 👋
-
-Master 1 IWOCS  
-Université Le Havre Normandie  
-En spécialisation **Ingénierie du Web, des Objets Communicants et des Systèmes
-complexes**
-
-- 🔭 I'm currently working on ... optimizing truck flows at Le Havre port 
-                                   using a Truck Appointment System (TAS)
-                                   
-- 🌱 I'm currently learning ...   Python for Data Analysis (Pandas, NumPy, 
-                                   Matplotlib) · Machine Learning basics
-                                   
-- 👯 I'm looking to collaborate on ... data analysis projects, especially 
-                                        in logistics & supply chain
-                                        
-- 💬 Ask me about ...  SQL · NoSQL (Cassandra) · network infrastructure · 
-                        teaching complex tech concepts simply
-                        
-- 📫 How to reach me: tinhinane.ben.aissa.98@gmail.com · LinkedIn : https://linkedin.com/in/tinhinane-ben-aissa-3376533b0
-
+<p align="center">
+  Master 1 IWOCS · Université Le Havre Normandie<br>
+  Ingénierie du Web, des Objets Communicants et des Systèmes Complexes<br>
+  <em>Building foundations in Data Science</em>
+</p>
 
 ---
 
-### Ce sur quoi je travaille en ce moment
-- Optimisation des flux logistiques au port du Havre — Truck Appointment System (TAS)
-- Formation Python · Pandas · NumPy · SQL
-
-### Compétences
-`Python` `Pandas` `SQL` `Excel` `Jupyter` `Git` `Cassandra` `Node.js`
-
-### Formation
-- Master 1 IWOCS — Université Le Havre Normandie (2025–présent)
-- Master 2 Systèmes Informatiques — Niveau 7 ENIC-NARIC (Algérie)
+- 🔭 Currently working on ... a Truck Appointment System to optimize port logistics at Le Havre
+- 🌱 Currently learning ... Python · Pandas · NumPy · SQL · Data Analysis
+- 👯 Looking to collaborate on ... beginner-friendly data projects
+- 💬 Ask me about ... SQL · Cassandra · network infrastructure
+- 📫 Reach me : [tinhinane.ben.aissa.98@gmail.com](mailto:tinhinane.ben.aissa.98@gmail.com) · [LinkedIn](https://linkedin.com/in/tinhinane-ben-aissa-3376533b0)
+- ⚡ Fun fact : I taught computer science for 3 years — I explain things clearly, always.
 
 ---
-*Ouverte aux opportunités d'alternance Data Analyst — septembre 2026*
 
+### 🛠️ Skills
+
+`Python` `SQL` `Pandas` `Excel` `Git` `Cassandra` `Node.js` `Linux`
+
+---
+
+### 🎓 Education
+
+- Master 1 IWOCS — Université Le Havre Normandie *(2025 – present)*
+- Master 2 Computer Science — Niveau 7 ENIC-NARIC, Algeria *(2019 – 2021)*
+
+---
+
+<p align="center"><em>Open to Data Analyst internship opportunities — September 2026</em></p>
