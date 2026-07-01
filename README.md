@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tinhinane 👋</h1>
 
 <p align="center">
-  Master 1 IWOCS · Université Le Havre Normandie<br>
+  Master 2 IWOCS · Université Le Havre Normandie<br>
   Ingénierie du Web, des Objets Communicants et des Systèmes Complexes<br>
   <em>Building foundations in Data Science</em>
 </p>
