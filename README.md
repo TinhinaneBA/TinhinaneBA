@@ -25,7 +25,7 @@
 
 ### 🎓 Education
 
-- Master 1 IWOCS — Université Le Havre Normandie *(2025 – present)*
+- Master 2 IWOCS — Université Le Havre Normandie *(2025 – present)*
 - Master 2 Computer Science — Niveau 7 ENIC-NARIC, Algeria *(2019 – 2021)*
 
 ---
