@@ -5,6 +5,14 @@ Building end-to-end ML pipelines · Turning data into decisions
 
 ---
 
+## 📊 GitHub Stats
+
+![TinhinaneBA's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinhinaneBA&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinhinaneBA&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 🚀 About me
 
 I'm a Data Science student with a background in Computer Science (Master's level, Algeria)
