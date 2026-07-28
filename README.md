@@ -35,6 +35,11 @@ Exploratory analysis of 123,849 LinkedIn job postings (2023–2024)
 - 9,248 tech offers identified · Median salary $133,656 · Interactive dashboard
 - `Python` `Pandas` `Plotly` `HTML` `Seaborn`
 
+### 📊 [LinkedIn EDA — Tech Job Market](https://github.com/TinhinaneBA/linkedin-eda-emploi-tech)
+- 9,248 tech offers identified · Median salary $133,656
+- **[Live Dashboard →](https://tinhinaneba.github.io/linkedin-eda-emploi-tech/)**
+- `Python` `Pandas` `Plotly` `HTML` `Seaborn`
+
 ---
 
 ## 🛠️ Skills
