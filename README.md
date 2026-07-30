@@ -36,6 +36,12 @@ Exploratory analysis of 123,849 LinkedIn job postings (2023–2024)
 - - **[Live Dashboard →](https://tinhinaneba.github.io/linkedin-eda-emploi-tech/)**
 - `Python` `Pandas` `Plotly` `HTML` `Seaborn`
 
+### 🤖 [Financial RAG Analyzer](https://github.com/TinhinaneBA/financial-rag-analyzer)
+Q&A system on financial reports — RAG pipeline with LangChain and Mistral
+- 7,409 chunks indexed · Cosine similarity retrieval · Citations exactes
+- **[Live App →](https://financial-rag-analyzer-xxxx.streamlit.app/)**
+- `LangChain` `Sentence-Transformers` `Mistral` `Streamlit` `RAG`
+
 ---
 
 ## 🛠️ Skills
