@@ -21,27 +21,26 @@ Currently seeking a **Data Science alternance starting September 2026** (Le Havr
 - **Summer learning plan** — MLflow · FastAPI · Power BI · NLP · Advanced SQL
 
 ---
-
 ## 📁 Featured Projects
 
 ### 🔍 [Fraud Detection ML](https://github.com/TinhinaneBA/fraud-detection-ml)
-Detection of fraudulent bank transactions on 284,807 real transactions (0.17% fraud rate)
-- Pipeline : EDA → SMOTE → XGBoost → Threshold Tuning → SHAP → MLflow → Streamlit
+Detection of fraudulent bank transactions — 284,807 real transactions
+- EDA → SMOTE → XGBoost → Threshold Tuning → SHAP → MLflow → Streamlit
 - AUC-ROC : 0.9802 · F1-Score : 0.8649 · False Positives reduced by 85%
-- `Python` `XGBoost` `SHAP` `MLflow` `Streamlit` `Scikit-learn` `SMOTE`
-
-### 📊 [LinkedIn EDA — Tech Job Market](https://github.com/TinhinaneBA/linkedin-eda-emploi-tech)
-Exploratory analysis of 123,849 LinkedIn job postings (2023–2024)
-- 9,248 tech offers identified · Median salary $133,656 · Interactive dashboard
-- - **[Live Dashboard →](https://tinhinaneba.github.io/linkedin-eda-emploi-tech/)**
-- `Python` `Pandas` `Plotly` `HTML` `Seaborn`
+- **[Live App →](https://fraud-detection-ml-gwdnjvzfqok3rcwtcmx44f.streamlit.app/)**
+- `XGBoost` `SHAP` `MLflow` `Streamlit` `SMOTE` `Scikit-learn`
 
 ### 🤖 [Financial RAG Analyzer](https://github.com/TinhinaneBA/financial-rag-analyzer)
 Q&A system on financial reports — RAG pipeline with LangChain and Mistral
-- 7,409 chunks indexed · Cosine similarity retrieval · Citations exactes
-- **[Live App →](https://financial-rag-analyzer-xxxx.streamlit.app/)**
-- `LangChain` `Sentence-Transformers` `Mistral` `Streamlit` `RAG`
+- 7,409 chunks · Cosine similarity retrieval · Exact source citations
+- **[Live App →](https://financial-rag-analyzer-qgfb2n3bbdm74y8uyde8qu.streamlit.app/)**
+- `LangChain` `Sentence-Transformers` `Mistral` `RAG` `Streamlit`
 
+### 📊 [LinkedIn EDA — Tech Job Market](https://github.com/TinhinaneBA/linkedin-eda-emploi-tech)
+Exploratory analysis of 123,849 LinkedIn job postings (2023–2024)
+- 9,248 tech offers · Median salary $133,656 · Interactive dashboard
+- **[Live Dashboard →](https://tinhinaneba.github.io/linkedin-eda-emploi-tech/)**
+- `Pandas` `Plotly` `Seaborn` `HTML`
 ---
 
 ## 🛠️ Skills
