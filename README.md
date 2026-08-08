@@ -27,7 +27,7 @@ Currently seeking a **Data Science alternance starting September 2026** (Le Havr
 Environmental justice analysis across Normandy — 2,644 communes
 - Geospatial EDA → K-Means/DBSCAN Clustering → SARIMA/Prophet Forecasting → BERTopic NLP
 - Score JE : Le Havre 0.90 (critical) · SARIMA MAE : 3.20 µg/m³ · RF R² : 0.49
-- **[Live App →](https://ecosense-nf9zkdham87gfuvvjt99v5.streamlit.app/)**
+- **[Live App →](https://ecosense-qsqxwyuxzhn9pktbncp5pg.streamlit.app/)**
 - `GeoPandas` `Folium` `Scikit-learn` `SARIMA` `BERTopic` `Streamlit`
 
 ### 🔍 [Fraud Detection ML](https://github.com/TinhinaneBA/fraud-detection-ml)
